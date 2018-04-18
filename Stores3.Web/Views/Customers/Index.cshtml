@@ -1,0 +1,41 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script src="~/Scripts/APP/Customers.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>Customers List</h2>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal" onclick="clearControls();">Add New Customer</button><br /><br />
+        <table class="table table-bordered table-hover" data-bind="visible: Customers().length > 0)">
+            <thead>
+                <tr>
+                    <th style="display: none;">Id</th>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody class="tbody" data-bind="foreach: Customers">
+                <tr>
+                    <td data-bind="text: Id" style="display: none;"></td>
+                    <td data-bind="text: Name"></td>
+                    <td data-bind="text: Address"></td>
+                    <td>
+                        <button data-bind="click: $root.edit">Edit</button>
+                        <button data-bind="click: $root.delete">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

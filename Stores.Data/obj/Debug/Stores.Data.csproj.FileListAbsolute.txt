@@ -1,0 +1,12 @@
+\\psf\home\documents\visual studio 2017\Projects\StoresApp1.Web\Stores.Data\obj\Debug\Stores.Data.csproj.CoreCompileInputs.cache
+\\psf\home\documents\visual studio 2017\Projects\StoresApp1.Web\Stores.Data\bin\Debug\Stores.Data.dll.config
+\\psf\home\documents\visual studio 2017\Projects\StoresApp1.Web\Stores.Data\bin\Debug\Stores.Data.dll
+\\psf\home\documents\visual studio 2017\Projects\StoresApp1.Web\Stores.Data\bin\Debug\Stores.Data.pdb
+\\psf\home\documents\visual studio 2017\Projects\StoresApp1.Web\Stores.Data\bin\Debug\EntityFramework.dll
+\\psf\home\documents\visual studio 2017\Projects\StoresApp1.Web\Stores.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\home\documents\visual studio 2017\Projects\StoresApp1.Web\Stores.Data\bin\Debug\EntityFramework.xml
+\\psf\home\documents\visual studio 2017\Projects\StoresApp1.Web\Stores.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\home\documents\visual studio 2017\Projects\StoresApp1.Web\Stores.Data\obj\Debug\Stores.Data.csproj.CopyComplete
+\\psf\home\documents\visual studio 2017\Projects\StoresApp1.Web\Stores.Data\obj\Debug\Stores.Data.dll
+\\psf\home\documents\visual studio 2017\Projects\StoresApp1.Web\Stores.Data\obj\Debug\Stores.Data.pdb
+\\psf\Home\Documents\Visual Studio 2017\Projects\StoresApp1.Web\Stores.Data\obj\Debug\Stores.Data.csprojResolveAssemblyReference.cache
